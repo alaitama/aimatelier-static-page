@@ -1,0 +1,1 @@
+# aimatelier-static-page
